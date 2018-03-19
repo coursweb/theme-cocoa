@@ -1,6 +1,6 @@
 # Site settings
-title: Documentation Thème Eris
+title: Documentation Thème Cocoa
 theme: jekyll-theme-cayman
-url: "https://cours-web.ch/theme-eris/"
+url: "https://cours-web.ch/theme-cocoa/"
 
 # include: ["_pages"]
