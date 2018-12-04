@@ -31,7 +31,7 @@ Deux zones de widget sont disponibles:
 * Header Widget Area
 * Footer Widget Area: dans le pied de page.
 
-## Options du thème
+## Options du thème
 
 Dans **Personnalisation: Thème**, vous pouvez modifier le texte de base de page (Custom Footer Text).
 
