@@ -11,11 +11,15 @@ Fontes par défaut:
 
 **Libre Baskerville** est chargée [via Google Fonts](https://fonts.google.com/specimen/Libre+Baskerville), et inclut les versions Regular, Italic et Bold.
 
+![Libre Baskerville](libre-baskerville.png)
+
 ## Modèles de page
 
-Ce thème propose un template de page spécial: Archive Page
+Ce thème propose un template de page spécial: **Archive Page**
+
 Voir un exemple ici: [http://themes.elmastudio.de/cocoa/archives/](http://themes.elmastudio.de/cocoa/archives/)
 
+![Modèle de page Archive](archive-template.jpg)
 
 ## Menus
 
@@ -33,7 +37,7 @@ Deux zones de widget sont disponibles:
 
 ## Options du thème
 
-Dans **Personnalisation: Thème**, vous pouvez modifier le texte de base de page (Custom Footer Text).
+Dans **Personnalisation: Thème**, vous pouvez modifier le texte de pied de page (Custom Footer Text).
 
 ***
 
